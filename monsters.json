@@ -6001,10 +6001,22 @@
       "id": 1000
     },
     {
-      "name": "13",
-      "age": 13,
-      "description": "131313",
+      "name": "Veggie Burger",
+      "age": "30",
+      "description": "dusty",
       "id": 1001
+    },
+    {
+      "name": "Jesus",
+      "age": "76",
+      "description": "spaghetti",
+      "id": 1002
+    },
+    {
+      "name": "C++",
+      "age": "40",
+      "description": "Old dude",
+      "id": 1003
     }
   ]
 }
